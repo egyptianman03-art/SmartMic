@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Mic</string>
+    <string name="author">Ahmed El-aref</string>
+    <string name="copyright">All rights reserved Ahmed El-aref</string>
+    <string name="tagline">Professional Audio Streaming</string>
+
+    <!-- Input sources -->
+    <string name="src_builtin">Built-in Microphone</string>
+    <string name="src_bluetooth">Bluetooth Headset</string>
+    <string name="src_wired">Wired Microphone (AUX)</string>
+
+    <!-- Output devices -->
+    <string name="out_speaker">Phone Speaker</string>
+    <string name="out_earpiece">Earpiece</string>
+    <string name="out_bt">Bluetooth Headset</string>
+
+    <!-- Buttons -->
+    <string name="btn_start">▶  Start</string>
+    <string name="btn_stop">⏹  Stop</string>
+    <string name="btn_record">⏺  Record</string>
+    <string name="btn_stop_rec">⏹  Stop Rec</string>
+
+    <!-- Sections -->
+    <string name="section_input">🎤  Input Source</string>
+    <string name="section_output">🔊  Output Device</string>
+    <string name="section_fx">⚡  Enhancements</string>
+    <string name="section_recordings">📁  Recordings</string>
+    <string name="no_recordings">No recordings yet</string>
+</resources>

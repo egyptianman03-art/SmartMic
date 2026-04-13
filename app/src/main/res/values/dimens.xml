@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_radius">18dp</dimen>
+    <dimen name="card_elevation">6dp</dimen>
+    <dimen name="card_margin_h">16dp</dimen>
+    <dimen name="card_margin_v">10dp</dimen>
+    <dimen name="card_padding">18dp</dimen>
+    <dimen name="btn_height">54dp</dimen>
+    <dimen name="btn_radius">27dp</dimen>
+    <dimen name="level_view_height">64dp</dimen>
+    <dimen name="section_title_size">15sp</dimen>
+</resources>
